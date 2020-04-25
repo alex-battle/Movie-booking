@@ -1,6 +1,6 @@
 # Movie-booking
 
-https://imgur.com/QoSsd3F
+<img width="921" alt="Screen Shot 2020-04-25 at 8 58 19 AM" src="https://user-images.githubusercontent.com/58659536/80282003-06e84080-86dd-11ea-8f03-9e5f6290249e.png">
 
 Demo link: http://alex-movie-seat-booking-app.surge.sh/
 
